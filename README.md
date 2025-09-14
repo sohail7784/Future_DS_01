@@ -12,3 +12,5 @@ Power BI
 Online Retail II Dataset (Kaggle)
 # Dashboard Overview
 https://github.com/sohail7784/Future_DS_01/blob/main/Bussiness%20Sales%20Dashboard(on%20E-commerce%20data).pbix
+# Data set
+https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
