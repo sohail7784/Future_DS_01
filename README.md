@@ -10,7 +10,9 @@ Interactive Filters (Time, Country, Product)
 # Tech Stack
 Power BI
 Online Retail II Dataset (Kaggle)
-# Dashboard Overview
+# Dashboard File
 https://github.com/sohail7784/Future_DS_01/blob/main/Bussiness%20Sales%20Dashboard(on%20E-commerce%20data).pbix
+# Dashboard Overview
+https://github.com/sohail7784/Future_DS-analytics_01/blob/main/Screenshot%202025-09-28%20003629.png
 # Data set
 https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
